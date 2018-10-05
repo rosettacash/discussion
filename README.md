@@ -1,4 +1,8 @@
-Welcome to this group for bitcoin cash enthusiasts.
+# Welcome
+
+This is a group for bitcoin cash enthusiasts :)
+
+## The Usage of this Repository
 
 Please open an issue to start a new discussion.  Or stop watching this
 repository to unsubscribe.
